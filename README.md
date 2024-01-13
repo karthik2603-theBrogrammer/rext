@@ -1,3 +1,3 @@
-# REXT
+# REXT 🐉
 
-- A simple full stack app built using rust, docker, postgres and next.js
+- A simple user store api with rust, docker and postgres 
